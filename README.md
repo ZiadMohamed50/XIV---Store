@@ -3,16 +3,19 @@
 
 **A responsive E-Commerce clothing store developed as the final project for the NTI Web Designer Summer Training.**
 
-Features
+**Features**
+
 Responsive and modern UI design
 Dynamic product display
 Interactive shopping cart
 Product browsing and selection
 Built with HTML, CSS, and JavaScript
-Technologies
+
+**Technologies**
 HTML5
 CSS3
 JavaScript
-Live Demo
 
-View Live Demo
+**Live Demo**
+
+https://ziadmohamed50.github.io/XIV---Store/
