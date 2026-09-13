@@ -11,6 +11,7 @@ Product browsing and selection
 Built with HTML, CSS, and JavaScript
 
 **Technologies**
+
 HTML5
 CSS3
 JavaScript
