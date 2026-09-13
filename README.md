@@ -1,7 +1,7 @@
-XIV Store — E-Commerce Clothing Store
-NTI Web Designer Summer Training – Final Project
+**XIV Store — E-Commerce Clothing Store**
+**NTI Web Designer Summer Training – Final Project**
 
-A responsive E-Commerce clothing store developed as the final project for the NTI Web Designer Summer Training.
+**A responsive E-Commerce clothing store developed as the final project for the NTI Web Designer Summer Training.**
 
 Features
 Responsive and modern UI design
